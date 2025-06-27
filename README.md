@@ -26,6 +26,6 @@ Add search functionality
 
 👨‍💻 Author
 Gagan Tiwari
-📧 your-email@example.com
+📧 tgagan368@gmail.com
 📍 India | 💼 MCA Student
 🔗 LinkedIn | 🔗 GitHub
